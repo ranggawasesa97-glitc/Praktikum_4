@@ -1,5 +1,4 @@
-# Praktikum_4
-# Praktikum4: 
+# Praktikum_4: IF 
 # Latihan 1: Menentukan Bilangan Terbesar dari 4 Bilangan (Python)
 
 ## Penjelasan Tugas
